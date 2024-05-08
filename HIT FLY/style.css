@@ -1,0 +1,50 @@
+#background{
+    height:500px;
+    width:1000px;
+    background:greenyellow;
+    border: 10px solid rgb(187, 36, 111);
+    position: absolute;
+    top:10px;
+    left:150px;
+   cursor:pointer;
+}
+#name{
+    font-size:60px;
+   color: rgb(9, 35, 82);
+   position:absolute;
+   left:330px;
+   top:160px;
+}
+
+#mosquito{
+    padding: 30px;
+    height:40px;
+    width:40px;
+    position: relative;
+    z-index: 100;
+}
+body{
+    background:cornflowerblue;
+    
+}
+#controls{
+    display: inline-block;
+    position: relative;
+    top: 540px;
+    left:540px;
+}
+h3{
+    display: inline;
+    margin-right: 60px;
+    margin-left: -10px;
+}
+button{
+    height: 50px;
+    width:120px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: cornflowerblue;
+    font-weight: 800;
+    border: 1px darkorchid dashed;
+   
+}
